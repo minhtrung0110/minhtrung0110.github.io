@@ -64,7 +64,7 @@ const app={
             name: 'Thrd!Life SLEEPWALKRS ',
             singer: 'OUTTA MY HEAD',
             path: 'https://dl58.dlmate19.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1FzT2NlNnpZR1N1Qi9pcWdLNTlPQkQrSjlIZXhFNHIrV0pmOGYyQWVUV2ZXcUZFR0Vwc3RnUkhxTjh1a3R1Q3ZIcnN0eWY5QitRd0x0bWVQbXhCZDdtVlN3TFA3TFVPcHdkQ1Yyb2xSbW5TV2N3YnFaOGdId29YbWhvVWk4ZnlnUHR5c2NQUG5iNDR4MzJuemZlL2JiM29rNnBTT2U1cVZRNDlPZjRUV3YrWWdtalpKNFRoY3lkb2hOMElqd3kvbkJvQnBJMXN0RWd4anc4THYxUUkwOEJxRERLMkFnYjNOUXY2bjhTa1lOMlhkUA%3D%3D',
-            image: 'https://i.ytimg.com/vi/7vw84EkHOlY/maxresdefault.jpg',
+            image: 'https://img.discogs.com/220T0NB5Zj5pRocIvMb5oYdbejE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13984439-1565470932-3105.jpeg.jpg',
           },
           {
             name: 'Muộn rồi mà sao còn',
