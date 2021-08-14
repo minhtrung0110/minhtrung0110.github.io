@@ -45,7 +45,7 @@ const app={
           {
             name: 'Thrd!Life SLEEPWALKRS ',
             singer: 'OUTTA MY HEAD',
-            path: 'https://open.spotify.com/track/1HGPK8Z9kE5wRIgyGwSSOp',
+            path: 'https://dl58.dlmate19.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1FzT2NlNnpZR1N1Qi9pcWdLNTlPQkQrSjlIZXhFNHIrV0pmOGYyQWVUV2ZXcUZFR0Vwc3RnUkhxTjh1a3R1Q3ZIcnN0eWY5QitRd0x0bWVQbXhCZDdtVlN3TFA3TFVPcHdkQ1Yyb2xSbW5TV2N3YnFaOGdId29YbWhvVWk4ZnlnUHR5c2NQUG5iNDR4MzJuemZlL2JiM29rNnBTT2U1cVZRNDlPZjRUV3YrWWdtalpKNFRoY3lkb2hOMElqd3kvbkJvQnBJMXN0RWd4anc4THYxUUkwOEJxRERLMkFnYjNOUXY2bjhTa1lOMlhkUA%3D%3D',
             image: 'https://i.ytimg.com/vi/7vw84EkHOlY/maxresdefault.jpg',
           },
           {
