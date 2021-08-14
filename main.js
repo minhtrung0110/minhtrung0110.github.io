@@ -36,11 +36,17 @@ const app={
             path: 'https://aredir.nixcdn.com/NhacCuaTui968/LightItUp-RobinHustinTobimorrowJex-5619031.mp3?st=kzpVQ5kKnf2LlcAqM6lnxg&e=1623143881',
             image: 'https://avatar-ex-swe.nixcdn.com/song/2019/01/08/1/3/d/a/1546913843457_640.jpg',
           },
+           {
+            name: 'Đừng Như Thói Quen',
+            singer: 'JayKii & Sara Lưu',
+            path: 'https://dl173.dlmate30.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyaGh1NEYvbmtCbUpQb0poSzlxOXNhdUpJSmhKdUlzbTgrQVFaVmcvWHY3SXBXcFl3YkNoNDBqVERqSzNkY2tzamJHdUlnMEV2cHdSQmV6dDZPQXdIUlUyUksrY3NIZkhMc2RlMzUvcGs4dDNqYkFpdmZkdFJESG8zeTVyeERHUGdJVHZTNGZLUGZWdE0xdTJIbVlLcVhDMHRWWGl6L043NXRkMzc2ZXV3eTlqdms2cmRKeVlVcDhacTlKMFpYODRPSFpvRWttaXBnRjBVU3RsdVN5T1kwMERxU2hkU0psQVM0USsrYnNZdzBYeXlBUngwZXQyWU53NHpjOFFLOU1wbStrcXJUc2ZpK1JiTWZpUnB5QmQ3bnI5SjJndDZ3MzdoS0h0ZXJkbWNjVXhGM3dHNWl0QU1JZTdGdzE4UFE9',
+            image: 'https://avatar-ex-swe.nixcdn.com/song/2019/01/08/1/3/d/a/1546913843457_640.jpg',
+          },
           {
-            name: 'Yoru ni kakeru',
-            singer: 'YOASOBI',
-            path: 'https://aredir.nixcdn.com/NhacCuaTui992/YoruNiKakeru-YOASOBI-6149490.mp3?st=68hnFhtGF6RukKDcDcW9Mw&e=1623132179',
-            image: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/16788ee5-3436-474a-84fd-6616063a1a9a/de2f4eq-bc67fa17-8dae-46a9-b85d-fe8082c34841.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE2Nzg4ZWU1LTM0MzYtNDc0YS04NGZkLTY2MTYwNjNhMWE5YVwvZGUyZjRlcS1iYzY3ZmExNy04ZGFlLTQ2YTktYjg1ZC1mZTgwODJjMzQ4NDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dABuqANeQEs6FBfslZHdG1lW_gDwzf61yqiSABROSx0',
+            name: 'Mới Mẻ Ngọt Ngào',
+            singer: 'Mr Siro',
+            path: 'https://dl239.dlmate07.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0ozZkJyZ2pJQlJQSnVyOFlDa3NIeFp1dHVhNFV0aHFUbk1vMFIxRzdYT3ZQT0Uxck1sOEVvUlRpdjhKTVk2SHJ0MGN0NGZkMDZlQkc5dUxYbXQyRjV3a3pZYkpQK0hLcFpKanhMcWtGdDNHMmx5ZVBIc0JyMi9YQzk5QXVGWlNnUGpTc0tLZjJOdE0xdXpHYmVlK0xtMXRWWGl5dVBzZDhiL1BIWTVpZnZrYjgvck5rN1hVdDVPTjBXMUpYODRQM0pta2tZajZZZnowT2psdXloQ1lvS0VxS2ZkZ2g5TEIwYTRQM2dZd3NYemlzUngzcTc1THdzNFc0MlEvZFUySFNuMXNQZmFHL1djOUtsQ1pTY091R3ZvOUh3Ny93ODdoZVQvcnFTeWNnWnowNjBRZEw2RzRWYjVoeHk4ZkhGOXRwcjBVRHJqdz09',
+            image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/7/3/c/673c044865350452518372c32c881aa0.jpg',
           },
           {
             name: 'Thrd!Life SLEEPWALKRS ',
