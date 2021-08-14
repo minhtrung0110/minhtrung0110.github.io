@@ -31,16 +31,28 @@ const app={
             image: 'https://i.pinimg.com/originals/f8/6f/33/f86f3378e656883b33594f06d78d1634.jpg',
           },
           {
-            name: 'Light It Up',
-            singer: 'Robin Hustin x TobiMorrow',
-            path: 'https://aredir.nixcdn.com/NhacCuaTui968/LightItUp-RobinHustinTobimorrowJex-5619031.mp3?st=kzpVQ5kKnf2LlcAqM6lnxg&e=1623143881',
-            image: 'https://avatar-ex-swe.nixcdn.com/song/2019/01/08/1/3/d/a/1546913843457_640.jpg',
+            name: 'This One \'s For You (EURO 2016)',
+            singer: 'David Guetta ft. Zara Larsson ',
+            path: 'https://dl82.dlmate47.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0FtY016dzFzRUZLNVlzb3hrMGZEckdjaGRMK3dqekppeEF0RmF2blhzZWRtWWV5Q0hzNHR0Wkh5VHZPOHlySFRpNXAwcFdvSkhYeEw5bEsyV3N4ZFh3aUxBVFBlR1IrZ0hPenhVcFVacTBDK1N3THJudGh2Ly9YQzk5QXVGWlNnUGpTc0tLZjJOdE0xdXpHYmVlK0xtMXRWWGl5dVBzZDhiL0tIWTVpZnZrYjgvck5rN1hVdDVPTjBXM1p2ajF2VHpvbEljbEkwZDVVdXdsdmluRko4S0VLU01haVIvTUIwZDRlYjhZeFFReWpZaC9tT3N5YllxKzE4RVpMTjg2MTJpOFBic2FRQ05lOFQzY0pTUk9PZUM5SldvdE1adXVVZklwZXJHa0tWVG1RYWdkK1h3YnQ4T3QwY0J0cktRcThFbWtSQzh3aDhUa09VZHpVYjVLaDFySE04U2RpRmNkWnhSRkNjQ3JwQ3hzZmRscGNnWUtGLzF2cThuSkE9PQ%3D%3D',
+            image: 'https://rtsw.co.uk/wp-content/uploads/2016/04/1966143_s2.jpg',
+          },
+            {
+            name: 'XIN LỖI',
+            singer: 'Hòa Minzy x Bùi Công Nam',
+            path: 'https://dl67.dlmate12.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ2NzT0VlOVR3YlN1QjByNE5rKzZHRmNveHRET0pXbW9QcFd2WmJzQjJMTlBIYmV5S0F1SUkvQ1d2SzFaTWU2bnJ0cW9kcmVveFNCVlBheitpazNSOTNoRXpoTy8yY1VKcDNLRllxcWd0YjVtT3duN1NNNnp1em16aUk5Z2loVFdFcjRuQS9GY0NidEx3Y2tEQ2JLdFMzbHNsUmd3SFUwTjlzaTdXL2xrU3ZrWnQxbEpsUUR3RldVdFY4aWJPKzU4V0poaFJjMk1zeWxFQzArcVNnRDVJd0k3V2ZiVDh0ZTNBdjhPRDZTQTRjeW1CTTNtR3VwZXAzeURKTUk0WnN1bSsxN2ZlblpUQ1ZOWSs5VjVtUUx2cXh2dnJoNi9kZXMwN0ltZXZJbmFWTm53YTlVZmZuZWRNZHVIQWdycTJFMnNJM3oybXQyd1lsbXZVSXluVDBkbk1wUm9KMEozZ0JJUE1GQ0NjbnA4enIxcjRwL0pGelRXK3U3N1luWnZBc3RMT0Z6S3BJZ1N1YTROWW9OUmpNN0hUUkRkbXNCRHdxNUdjSERYN0dIMWRCZ2w0a05oRzUwOFl4M25UMEhaOS8%3D',
+            image: 'https://i.ytimg.com/vi/CC-ljvqjqyM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCZrpvEMbEu9PnBB-9b1jlKmiInZw',
+          },
+           {
+            name: 'THE PLAYAH',
+            singer: 'SOOBIN X SLIMV',
+            path: 'https://dl245.dlmate23.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ1h0L29ZN2o1b09lQi9pcVFDNGEvckYrRnFaWmNqN0xPRE9aVm41VHZiZU5HSGV6K01wSjRwVUg2QStkVTQ4blRnOVlncFdzQndXbDNWanZXcWxYcEFnQVB3Y1piQUJlc1FhMzUzcG45ejBqS2JrYlNHbnd6M3BtbTRwVWpHUGdJSG9taE9iOU9EdE0xdXpEdkdidVBoblpNS29HM1NxWWxHMWZLVXVqN3UvS0V5c2RGallWQjhkcTlOMVp2czN2anp0bGNjZzVBZDFuSzByUENnQ1l3NEhhdWRmQWgvT0NRQTZ1YnVVQ1FUMmpZWCsxT28vNnNnNFY4TkpmUkEzRmVIemN2Q1UzR1ZicEd3U29tVUkvcTRzc3owNTZRdzZST1ovN2FTeE1rVTBCdXVVczJpSG9OWTRCWjMrZVdRODVFbDFBWG8%3D',
+            image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/b/4/2/9/b4292439fdc63154c04a50f56d7da985.jpg',
           },
            {
             name: 'Đừng Như Thói Quen',
             singer: 'JayKii & Sara Lưu',
             path: 'https://dl173.dlmate30.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyaGh1NEYvbmtCbUpQb0poSzlxOXNhdUpJSmhKdUlzbTgrQVFaVmcvWHY3SXBXcFl3YkNoNDBqVERqSzNkY2tzamJHdUlnMEV2cHdSQmV6dDZPQXdIUlUyUksrY3NIZkhMc2RlMzUvcGs4dDNqYkFpdmZkdFJESG8zeTVyeERHUGdJVHZTNGZLUGZWdE0xdTJIbVlLcVhDMHRWWGl6L043NXRkMzc2ZXV3eTlqdms2cmRKeVlVcDhacTlKMFpYODRPSFpvRWttaXBnRjBVU3RsdVN5T1kwMERxU2hkU0psQVM0USsrYnNZdzBYeXlBUngwZXQyWU53NHpjOFFLOU1wbStrcXJUc2ZpK1JiTWZpUnB5QmQ3bnI5SjJndDZ3MzdoS0h0ZXJkbWNjVXhGM3dHNWl0QU1JZTdGdzE4UFE9',
-            image: 'https://avatar-ex-swe.nixcdn.com/song/2019/01/08/1/3/d/a/1546913843457_640.jpg',
+            image: 'https://avatar-ex-swe.nixcdn.com/song/2018/05/01/7/b/0/1/1525181506795_640.jpg',
           },
           {
             name: 'Mới Mẻ Ngọt Ngào',
@@ -68,10 +80,10 @@ const app={
           },
          
           {
-            name: 'Symphony',
-            singer: 'Clean Bandit',
-            path: 'https://aredir.nixcdn.com/Sony_Audio37/Symphony-CleanBanditZaraLarsson-4822950.mp3?st=sPgJSXtRXYpT_rznXyez6g&e=1623144426',
-            image: 'https://i.ytimg.com/vi/PIf9GvWaxQQ/maxresdefault.jpg',
+            name: 'We Are The People',
+            singer: 'Martin Garrix, Bono & The Edge at EURO 2020 Opening Ceremony ',
+            path: 'https://dl142.dlmate06.xyz/?file=M3R4SUNiN3JsOHJ6WWQ2a3NQS1Y5ZGlxVlZIOCtyZ0ptY2N1emg1b0pxcGV0SVEzbk1hdkxjWUVaWk1IeU1HSEZkbFJ2ai9NT3ZXK0FpREM1TWgwRWppdTU5TXpzREhJdUswbFM4eDhXUmpoMEsyVWszcFhtd0srU3RESVhvaFRZbWQzcGc1dXczWFZ5dmpZdkNyb3NtbWwrZ2pSU2owRnB5OGVQL0NWbzdsRnhUcU9QZEcwbHNJanRIU1M0NDVNbFBPU3VVcTdpTDgvcXNoOFVIdHpjb0pQMElMSzNmL0NxbmdOaUp3ajMwbWpyTjJuRXFFd0NiZVJSbVVnYkhJMjV2L3FVaElReUJvZC9YNjcrNkFyOTE4ZWRKOTArbWVMN2Zyc1dTK2RjZEw2U3E2dUlNR3FuOUhWOEtGRXZBL010ckNCbVlKUW54cWlYTUh5UTR4WjV4MTcrUGJWc0p4dmhFV3d3QXBIMGJsYWtSMnVJUW91V01wWU5TWmE%3D',
+            image: 'https://4.bp.blogspot.com/-hm1ZEEdBoUQ/XowsHgrccnI/AAAAAAAAEpU/NgfVP1JRhQoaQ3fcpuULNNuUpJyEfrGUwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Martin%2BGarrix%2BLogo.jpg',
           },
           {
             name: 'Waiting For Love',
