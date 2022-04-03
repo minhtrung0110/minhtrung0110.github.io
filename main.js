@@ -27,7 +27,7 @@ const app={
         {
             name: 'Nevada',
             singer: 'Vicetone',
-            path: 'https://aredir.nixcdn.com/NhacCuaTui924/Nevada-Vicetone-4494556.mp3?st=_IjpS9u0LjapNgzm058wVw&e=1623143773',
+            path: './musics/Nevada-Monstercat-6983746.mp3',
             image: 'https://i.pinimg.com/originals/f8/6f/33/f86f3378e656883b33594f06d78d1634.jpg',
           },
           {
