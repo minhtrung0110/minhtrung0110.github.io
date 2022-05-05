@@ -74,6 +74,12 @@ const app={
             image: 'https://i.ytimg.com/vi/UNB8F0ObA4g/maxresdefault.jpg',
           },
           {
+            name: "THERE'S NO ONE AT ALL",
+            singer: 'Sơn Tùng M-TP',
+            path: "./musics/THERE'S NO ONE AT ALL.mp3",
+            image: "./img/THERE'S NO ONE AT ALL.jpg",
+          },
+          {
             name: 'Something Just Like This',
             singer: 'The Chainsmokers & Coldplay',
             path: 'https://aredir.nixcdn.com/Sony_Audio39/SomethingJustLikeThis-TheChainsmokersColdplay-5337136.mp3?st=VQuH6VgNsPlBizbk-c7n3w&e=1623144556',
